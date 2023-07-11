@@ -4,19 +4,17 @@ ImageVision-SDK 8 공식 발표!
 
 창고는 파일 크기에 제한이 있기 때문에 이 창고는 정적 라이브러리 파일이 없고 파일이 완전하고 적절하지 않습니다. 다음 링크로 이동하여 전체 압축 패키지를 다운로드하십시오.이 SDK의 모든 업데이트는 다음 링크를 통해 제공됩니다. 다음 링크의 변경 사항을 주의 깊게 살펴보십시오.
 
-https://pan.baidu.com/s/1m4xi2nWj5wHQQrYefmomOA?pwd=1234 추출 코드: 1234
+https://pan.baidu.com/s/1F0tBFGroaztEflMBXPFVvQ?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/RVEWPP1f
+https://share.weiyun.com/1dsaoQHV
 
-https://caiyun.139.com/m/i?0H5CJry3cGOnX 추출 코드:f1V0
+https://caiyun.139.com/m/i?0H5CIuEJ2DoNn 提取码:3xOK
 
-https://www.mediafire.com/file/of9ujnjr4r3knoz/ImageVision-SDK_8%2528%25E5%258B%2587%25E6%25AF%2585%2529.zip/file
+https://www.mediafire.com/file/0309otm39z76nce/ImageVision-SDK_10%2528WindTide%2529.zip/file
 
-https://jmj.cc/s/tr88da
+https://jmj.cc/s/a3xglk
 
-https://cloud.189.cn/web/share?code=32MJFnqINFze（추출 코드：2b5h）
-
-https://url95.ctfile.com/f/44915895-846055956-7e1b4b?p=9057 (추출 코드: 9057))
+https://cloud.189.cn/web/share?code=3M3qEjzuEVVr（访问码：3qwu）
 
 다음 QQ그룹에 문의하십시오.
 
